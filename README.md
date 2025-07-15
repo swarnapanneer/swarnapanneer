@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Swarnalakshmi
 
-## 💼 Help Desk / Service Desk Analyst | Aspiring DevOps Engineer
+## 💼 Help Desk / Service Desk Analyst | IT Support
 
-I'm passionate about solving technical issues and helping users work efficiently. With experience in client service and quality analysis, I'm now building my career in IT Support and DevOps.
+I'm passionate about solving technical issues and helping users work efficiently. With experience in client service and quality analysis, I'm now building my career in IT Support.
 
 ---
 
