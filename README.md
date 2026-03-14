@@ -1,27 +1,41 @@
-# 👋 Hello, I'm Swarnalakshmi
-
-## 💼 Help Desk / Service Desk Analyst | IT Support
-
-I'm passionate about solving technical issues and helping users work efficiently. With experience in client service and quality analysis, I'm now building my career in IT Support.
-
+# Hi 👋 I'm Swarnalakshmi
+🚀 AWS & DevOps Enthusiast
+☁️ Passionate about Cloud Infrastructure, Automation, and CI/CD
+🔭 Currently focusing on AWS Cloud & DevOps tools
+🌱 Learning Docker, Kubernetes, Terraform, and CI/CD pipelines
 ---
 
 ## 🧰 Technical Skills
 
-- 💻 **Operating Systems**: Windows, Linux (Ubuntu, CentOS)
+- 💻 **Operating Systems**: Windows, Linux (Ubuntu)
 - 🛠️ **IT Support Tools**: Active Directory, Remote Desktop, Ticketing Systems (e.g.,Jira)
 - 🌐 **Networking**: IP/DNS, LAN/WAN troubleshooting, VPN
-- 🧪 **Monitoring Tools**: basic shell scripting for system health checks
-- 🔧 **DevOps Tools (Learning)**: Git, GitHub, AWS, Docker, Terraform, Ansible, Kubernetes, CI/CD concepts
+- 🔧 **Proramming and Scripting** : Bash shell scripting(basics) and Python(basics)
+- 🧪 **Monitoring Tools**: Nagios
+- 🔧 **DevOps Tools (Learning)**: Git, GitHub, AWS, Docker, Terraform, Ansible, Kubernetes, CI/CD concepts, Jenkins, GitHub Actions.
+- 🔧 **AWS Sevices** : VPC, EC2, IAM, S3, Lambda, RDS, DynamoDB, Cloud watch, SNS and SQS.
+
+---
+## 📂 Featured Projects
+
+### AWS Serverless ToDo Application
+Built a full stack serverless application using AWS services.
+
+Services used:
+- S3
+- API Gateway
+- Lambda
+- DynamoDB
 
 ---
 
-## 📚 Currently Learning
+### AWS Highly Available VPC Architecture
+Designed secure network infrastructure with:
 
-- AWS (EC2, S3, IAM, CLI, Lambda, Cloud watch, RDS, DynamoDB, SNS, SQS, EBS,)
-- CI/CD pipelines
-- Basic scripting (Bash, PowerShell)
-- Docker and Kubernetes
+- Public & Private Subnets
+- NAT Gateway
+- Internet Gateway
+- Bastion Host
 
 ---
 
@@ -31,14 +45,12 @@ I'm passionate about solving technical issues and helping users work efficiently
 
 ---
 
-## 💬 Ask Me About
+📜 Certifications
 
-- Troubleshooting OS and software issues  
-- Creating knowledge base articles and documentation  
-- Setting up AWS free-tier labs for practice  
-- Building simple automation scripts  
+✔ DevOps Associate Certification
 
 ---
+
 
 # 🚀 Languages and Tools:
 
@@ -47,7 +59,11 @@ I'm passionate about solving technical issues and helping users work efficiently
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" height="50"/>  
 </p>
 
 ---
@@ -55,6 +71,8 @@ I'm passionate about solving technical issues and helping users work efficiently
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/swarna-panneer-a493362a4/)
+<a href="https://www.linkedin.com/in/swarna panneer" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
 
 ---
